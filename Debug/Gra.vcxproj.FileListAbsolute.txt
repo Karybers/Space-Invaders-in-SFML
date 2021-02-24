@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\Gra\Debug\Gra.exe
+C:\Users\User\source\repos\Gra\Debug\Gra.pdb
